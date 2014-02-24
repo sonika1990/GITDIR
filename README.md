@@ -1,0 +1,4 @@
+GITDIR
+======
+
+example1
